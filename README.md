@@ -1,1 +1,1 @@
-# simply my cv
+# developer's resume
