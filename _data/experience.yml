@@ -1,4 +1,11 @@
 # Jobs
+- company: /gebrüderheitz <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
+  position: Software Developer
+  duration:   October, 2017  &mdash; Present
+  summary: |
+    iOS/Andoid application. Social network of employees that can leave feedback to each other, participate in meetings, take company surveys and etc.<br>
+    Development of the private REST API with Nest.js/Node.js, typeORM/SQL/Database-agnostic.
+
 - company: OEM Factory Network Limited
   position: Software developer and co-founder
   duration: February, 2013 &mdash; Present
@@ -17,14 +24,14 @@
     Participated in CPA network development.<br>
     Coded advertiser/publisher dashboard and admin tools with Node.js, Ext.js, MongoDB.
 
-- company: Ixxy Ltd, <a href="http://www.ixxy.co.uk/">http://www.ixxy.co.uk/</a>
+- company: Ixxy Ltd, <a href="http://www.ixxy.co.uk/">www.ixxy.co.uk</a>
   position: Web Developer
   duration:   August, 2011  &mdash; February, 2013
   summary: |
     Part of the team that developed and maintained variety of <a href="http://www.ixxy.co.uk/#our-work">websites</a><br>
     Full stack development using Python/Django, Javascript/jQuery, PostgreSQL.
 
-- company: Mera Networks, <a href="https://www.mera.com/">https://www.mera.com/</a>
+- company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Developer
   duration:   February, 2010  &mdash; April, 2011
   summary: |
