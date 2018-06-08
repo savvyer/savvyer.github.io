@@ -3,12 +3,13 @@
   position: Software Developer
   duration:   October, 2017  &mdash; Present
   summary: |
-    iOS/Andoid application. Social network of employees that can leave feedback to each other, participate in meetings, take company surveys and etc.<br>
-    Development of the private REST API with Nest.js/Node.js, typeORM/SQL/Database-agnostic.
+    Project name: Haufe Instant Feedback App. Website: <a href="https://instant-feedback-app.haufe.de/">instant-feedback-app.haufe.de</a>
+    Network of employees that can leave feedback to each other, participate in meetings, take company surveys and etc.<br>
+    Development of the business logic with REST API running on Nest.js/Node.js, typeORM/SQL/Database-agnostic.
 
 - company: OEM Factory Network Limited
-  position: Software developer and co-founder
-  duration: February, 2013 &mdash; Present
+  position: Software Developer and co-founder
+  duration: February, 2013 &mdash; December, 2017
   summary: |
     Led the development of mixture of E-commerce apps and APIs in partnership with range of Chinese companies.<br>
     Built big data driven apps using Python/Django, ES6/Express.js, MongoDB.<br>
