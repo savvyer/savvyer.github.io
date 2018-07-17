@@ -1,40 +1,40 @@
 # Jobs
 - company: /gebrüderheitz, <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
-  position: Software Developer
+  position: Backend Web Developer
   duration:   October, 2017  &mdash; Present
   summary: |
-    Project name: Haufe Instant Feedback App. Website: <a href="https://instant-feedback-app.haufe.de/">instant-feedback-app.haufe.de</a>
-    Network of employees that can leave feedback to each other, participate in meetings, take company surveys and etc.<br>
-    Development of the business logic with REST API running on Nest.js/Node.js, typeORM/SQL/Database-agnostic.
+    <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback.production">Haufe Instant Feedback Android App</a> <a href="https://itunes.apple.com/app/instant-feedback/id1306701929">Haufe Instant Feedback iOS App</a>
+    Implementation of the business logic with REST API that powers Instant Feedback app. Admin interface REST API.<br>
+    Technology stack used: Typescript, Nest.js/Node.js, PostgreSQL/database-agnostic.
 
 - company: OEM Factory Network Limited
-  position: Software Developer and co-founder
+  position: Lead Software Developer and Co-Founder
   duration: February, 2013 &mdash; December, 2017
   summary: |
     Led the development of mixture of E-commerce apps and APIs in partnership with range of Chinese companies.<br>
-    Built big data driven apps using Python/Django, ES6/Express.js, MongoDB.<br>
+    Technology stack used: Python/Django, ES6/Express.js, MongoDB.<br>
     Created social media campaigns with Facebook API.<br>
     Integrated PayPal, Stripe and Cryptocurrency payment channels.<br>
-    Products feed generation for Amazon, eBay, Walmart and other marketplaces.<br>
+    Products feed generation for Amazon, eBay, Walmart and other smaller marketplaces.<br>
     China Post, Hong Kong Post, 4PX, SF Express APIs integration.
 
 - company: Goodvert.ru
-  position: Web Developer
+  position: Full Stack Web Developer
   duration:   September, 2012  &mdash; December, 2012
   summary: |
-    Participated in CPA network development.<br>
-    Coded advertiser/publisher dashboard and admin tools with Node.js, Ext.js, MongoDB.
+    Cost per action affiliate network development. Business logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.<br>
+    Technology stack used: Javascript, Node.js, Ext.js, MongoDB.
 
-- company: Ixxy Ltd, <a href="http://www.ixxy.co.uk/">www.ixxy.co.uk</a>
-  position: Web Developer
+- company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
+  position: Full Stack Web Developer
   duration:   August, 2011  &mdash; February, 2013
   summary: |
-    Part of the team that developed and maintained variety of <a href="http://www.ixxy.co.uk/#our-work">websites</a><br>
-    Full stack development using Python/Django, Javascript/jQuery, PostgreSQL.
+    Development and maintenance of custom Django-framework based CMS.<br>
+    Technology stack used: Python/Django, Javascript/jQuery, PostgreSQL.
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Developer
   duration:   February, 2010  &mdash; April, 2011
   summary: |
-    I was adjusting Navitel's maps look, fixing geoname search issues and working on other map navigaton related tasks.<br>
-    Backend development with Python and OracleDB.
+    MetroPCS Navigator. Adjustments for Navitel's maps, fix geoname search issues and work on map navigaton related tasks.<br>
+    Technology stack used: Python and OracleDB.
