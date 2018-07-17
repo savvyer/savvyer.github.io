@@ -4,7 +4,7 @@
   duration:   October, 2017  &mdash; Present
   summary: |
     <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback.production">Haufe Instant Feedback Android App</a> | <a href="https://itunes.apple.com/app/instant-feedback/id1306701929">Haufe Instant Feedback iOS App</a><br>
-    Implementation of the business logic with REST API that powers Instant Feedback app. Admin interface REST API.<br>
+    Implementation of the business logic with REST API that powers Instant Feedback app and admin interface.<br>
     Technology stack used: Typescript, Nest.js/Node.js, PostgreSQL/database-agnostic.
 
 - company: OEM Factory Network Limited
