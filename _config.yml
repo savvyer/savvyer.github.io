@@ -16,7 +16,7 @@ resume_contact_email:           ""
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
-resume_header_intro: "<p>I'm experienced with wide range of programming languages and tech stacks, currently specialized in Javascript development.</p>"
+resume_header_intro: "<p>Experienced software engineer with wide range of programming languages and tech stacks. Prior career in web development studied Intel 8080 assembler and C++ programming, game development and micro-controller programming with C. Developed Windows applications with Delphi.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
