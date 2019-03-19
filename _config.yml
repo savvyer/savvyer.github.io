@@ -16,7 +16,7 @@ resume_contact_email:           ""
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info:     ""
-resume_header_intro: "<p>Experienced multi-disciplinary full stack software engineer specializing in building web applications.<br><br><i># Primary Tech I work with:<i/><br>Typescript, Javascript, Node.js, Redux, React.js, Python, Django, SQL PostgreSQL, NoSQL MongoDB, HTML5, CSS3, Docker, Nginx, Apache, Git</p>"
+resume_header_intro: "<p>Experienced multi-disciplinary full stack software engineer specializing in building web applications.<br><br># Primary Tech I work with:<br>Typescript, Javascript, Node.js, Redux, React.js, Python, Django, SQL PostgreSQL, NoSQL MongoDB, HTML5, CSS3, Docker, Nginx, Apache, Git</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
