@@ -6,10 +6,11 @@
     <a href="https://www.leanboard.io/">Leanboard</a><br>
     Frontend and backend REST API development. Github API integration.<br>
     Real time user editing of the whiteboard with websockets.<br>
+    Set up CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.<br>
     Technology stack used: Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreqSQL.<br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    Cloud functions development. Setup rules and manage Firebase datastore.<br>
+    Cloud functions development. Set up rules and managed Firebase datastore.<br>
     Technology stack used: Typescript, Node.js, Firebase/Google Cloud SDK.<br>
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback.production">Instant Feedback Android App</a> | <a href="https://itunes.apple.com/app/instant-feedback/id1306701929">Instant Feedback iOS App</a><br>
