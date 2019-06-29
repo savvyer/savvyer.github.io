@@ -5,40 +5,52 @@
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
     Frontend and backend REST API development. Github API integration.<br>
-    Technology stack used: Typescript, Nest.js/Node.js, React.js, PostgreqSQL.<br>
+    Real time user editing of the whiteboard with websockets.<br>
+    Technology stack used: Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreqSQL.<br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    Cloud functions development.<br>
+    Cloud functions development. Setup rules and manage Firebase datastore.<br>
     Technology stack used: Typescript, Node.js, Firebase/Google Cloud SDK.<br>
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback.production">Instant Feedback Android App</a> | <a href="https://itunes.apple.com/app/instant-feedback/id1306701929">Instant Feedback iOS App</a><br>
     Implementation of the business logic with REST API that powers Instant Feedback app and admin interface.<br>
-    Technology stack used: Typescript, Nest.js/Node.js, PostgreSQL/database-agnostic.
+    Technology stack used: Typescript, Nest.js/Node.js, PostgreSQL.
 
 - company: OEM Factory Network Limited
   position: Lead Software Engineer and Co-Founder
   duration: February, 2013 &mdash; December, 2017
   summary: |
-    Led the development of e-commerce apps/APIs for real-time product stock management and order tracking in partnership with range of Chinese companies.<br>
-    Technology stack used: Python/Django, Javascript/Express.js, MongoDB.<br>
-    Created social media campaigns with Facebook API.<br>
-    Integrated PayPal, Stripe and Cryptocurrency payment channels.<br>
-    Products feed generation for Amazon, eBay, Walmart and other smaller marketplaces.<br>
-    China Post, Hong Kong Post, 4PX, SF Express APIs integration.
+    Led the development of e-commerce SaaS app for Chinese market.<br>
+    Real-time product inventory management.<br>
+    Order tracking and integration with shipping providers like China Post, Hong Kong Post, 4PX, SF Express.<br>
+    Product feed generation for online marketplaces like Amazon, eBay, Walmart.<br>
+    <br>
+    The app was built as monolith with python/Django at first.<br>
+    With grow of the functionality we changed architecture to micro-services. New features was developed with Javascript/Express.js.<br>
+    Communication between services was implemented via REST API.<br>
+    <br>
+    Built and led a team of five software engineers. Used kanban methodology.<br>
+    <br>
+
+    Sold the company to <a href="https://www.gracekarin.com/">GraceKarin.com</a><br>
+    <a href="https://www.amazon.com/stores/GRACEKARIN/GRACEKARIN/page/87C34C1F-156A-4E73-AFA0-7C19974B4580">One of the biggest fashion sellers on Amazon</a><br>
+    Technology stack used: Python/Django, Javascript/Express.js, HTML/SCSS, MongoDB.<br>
 
 - company: Goodvert.ru
   position: Full Stack Web Developer
   duration:   September, 2012  &mdash; December, 2012
   summary: |
-    Cost per action affiliate network development. Business logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.<br>
-    Technology stack used: Javascript, Node.js, Ext.js, MongoDB.
+    Goodvert - cost per action (CPA) affiliate network.<br>
+    Joined the startup on the early stage. Built and released an MVP.<br>
+    Responsible for business logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.<br>
+    Technology stack used: Javascript, Node.js, Ext.js, HTML/CSS, MongoDB.
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
   position: Full Stack Web Developer
   duration:   August, 2011  &mdash; July, 2012
   summary: |
-    Development and maintenance of custom Django-framework based CMS and websites built with it.<br>
-    Technology stack used: Python/Django, Javascript/jQuery, PostgreSQL.
+    Development and maintenance of custom Django based CMS and websites built with it.<br>
+    Technology stack used: Python/Django, Javascript/jQuery, HTML/CSS, PostgreSQL.
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Developer
