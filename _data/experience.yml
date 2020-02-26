@@ -40,9 +40,8 @@
     Kong Post, 4PX, SF Express. Product feed generation for online marketplaces like Amazon,
     eBay, Walmart.
     <br>
-    <b>Responsibilities:</b> Minimum viable product development. 3rd party APIs integration. Core
-    business logic implementation. Lead a team of five software engineers. Refactoring and
-    implementation of new features with microservices.
+    <b>Responsibilities:</b> Core business logic implementation. 3rd party APIs integrations.
+    Refactoring and implementation of new features. Building microservices architecture. Lead a team of five software engineers.
     <br>
     <b>Technology stack used:</b> Python/Django, Javascript/Express.js, HTML/SCSS, MongoDB.
 
@@ -61,6 +60,8 @@
   position: Full Stack Web Developer
   duration:   August, 2011  &mdash; July, 2012
   summary: |
+    <b>Description:</b> 
+    <br>
     <b>Responsibilities:</b> Development and maintenance of custom Django based CMS and websites
     built with it. Layout websites from the photoshop designs.
     <br>
@@ -70,7 +71,8 @@
   position: Software Developer
   duration:   February, 2010  &mdash; April, 2011
   summary: |
-    MetroPCS Navigator
-    <b>Responsibilities:</b> Navitel's map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search.
+    <b>Description:</b> MetroPCS Navigator
+    <br>
+    <b>Responsibilities:</b> Map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search.
     <br>
     <b>Technology stack used:</b> Python and OracleDB.
