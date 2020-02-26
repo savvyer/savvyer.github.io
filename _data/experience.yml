@@ -5,23 +5,29 @@
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
     <b>Description:</b> Leanboard is a collaborative whiteboard with sticky notes for GitHub issues.
+    <br>
     <b>Responsibilities:</b> Design an architecture of the app. Frontend and backend REST API
     development. Github API integration. Development of the real time communication with websockets.
     DevOps, setup CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.
+    <br>
     <b>Technology stack used:</b> Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreSQL.
     <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
     <b>Description:</b> The Urban Challenger Rally is a city exploration game. Teams of 6-8 people
     compete against each other in completing as many of our challenges in a time frame of three hours.
+    <br>
     <b>Responsibilities:</b> Cloud functions development. Set up rules and manage Firebase datastore.
+    <br>
     <b>Technology stack used:</b> Typescript, Node.js, Firebase/Google Cloud SDK.
     <br>
     <br>
     <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback">Instant Feedback Android App</a> | <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback">Instant Feedback iOS App</a><br>
     <b>Description:</b> The Instant Feedback app enables employees to give and receive feedback within their own organizational areas independent of their location or time.
+    <br>
     <b>Responsibilities:</b> Implementation of the business logic with REST API that powers Instant
     Feedback app and admin interface.
+    <br>
     <b>Technology stack used:</b> Typescript, Nest.js/Node.js, PostgreSQL.
 
 - company: OEM Factory Network Limited
@@ -33,9 +39,11 @@
     management. Order tracking and integration with shipping providers like China Post, Hong
     Kong Post, 4PX, SF Express. Product feed generation for online marketplaces like Amazon,
     eBay, Walmart.
+    <br>
     <b>Responsibilities:</b> Minimum viable product development. 3rd party APIs integration. Core
     business logic implementation. Lead a team of five software engineers. Refactoring and
     implementation of new features with microservices.
+    <br>
     <b>Technology stack used:</b> Python/Django, Javascript/Express.js, HTML/SCSS, MongoDB.
 
 - company: Goodvert.ru
@@ -43,8 +51,10 @@
   duration:   September, 2012  &mdash; December, 2012
   summary: |
     <b>Description:</b> Goodvert - cost per action (CPA) affiliate network.
+    <br>
     <b>Responsibilities:</b> Greenfield project. Built and released an MVP. Responsible for business
     logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.
+    <br>
     <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML/CSS, MongoDB.
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
@@ -53,6 +63,7 @@
   summary: |
     <b>Responsibilities:</b> Development and maintenance of custom Django based CMS and websites
     built with it. Layout websites from the photoshop designs.
+    <br>
     <b>Technology stack used:</b> Python/Django, Javascript/jQuery, HTML/CSS, PostgreSQL.
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
@@ -61,4 +72,5 @@
   summary: |
     MetroPCS Navigator
     <b>Responsibilities:</b> Navitel's map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search.
+    <br>
     <b>Technology stack used:</b> Python and OracleDB.
