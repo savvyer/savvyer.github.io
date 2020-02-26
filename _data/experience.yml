@@ -4,10 +4,13 @@
   duration:   October, 2017  &mdash; Present
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
-    Frontend and backend REST API development. Github API integration.<br>
-    Real time user editing of the whiteboard with websockets.<br>
-    Set up CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.<br>
-    Technology stack used: Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreqSQL.<br>
+    <b>Description:</b> Leanboard is a collaborative whiteboard with sticky notes for GitHub issues.
+    <b>Responsibilities:</b Design an architecture of the app. Frontend and backend REST API
+    development. Github API integration. Development of the real time communication with
+    websockets.
+    DevOps, setup CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.
+    <b>Technology stack used:</b> Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreSQL.
+    <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
     Cloud functions development. Set up rules and managed Firebase datastore.<br>
