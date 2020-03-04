@@ -22,7 +22,7 @@
     <b>Technology stack used:</b> Typescript, Node.js, Firebase/Google Cloud SDK.
     <br>
     <br>
-    <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback">Instant Feedback Android App</a> | <a href="https://play.google.com/store/apps/details?id=com.haufe.instantfeedback">Instant Feedback iOS App</a><br>
+    <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
     <b>Description:</b> The Instant Feedback app enables employees to give and receive feedback within their own organizational areas independent of their location or time.
     <br>
     <b>Responsibilities:</b> Implementation of the business logic with REST API that powers Instant
