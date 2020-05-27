@@ -10,16 +10,17 @@
     development. Github API integration. Development of the real time communication with websockets.
     DevOps, setup CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.
     <br>
-    <b>Technology stack used:</b> Typescript, Nest.js/Node.js, React.js, Redux, Socket.io, PostgreSQL.
+    <b>Technology stack used:</b> Typescript, Nest.js, Node.js, React.js, Redux, Websockets, Socket.io, PostgreSQL, Docker, Nginx, Bash scripting
     <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
     <b>Description:</b> The Urban Challenger Rally is a city exploration game. Teams of 6-8 people
     compete against each other in completing as many of our challenges in a time frame of three hours.
     <br>
-    <b>Responsibilities:</b> Cloud functions development. Set up rules and manage Firebase datastore.
+    <b>Responsibilities:</b> Cloud functions development: handle user photo uploads, game logic events. <br>
+    Set up rules and manage Firebase datastore.
     <br>
-    <b>Technology stack used:</b> Typescript, Node.js, Firebase/Google Cloud SDK.
+    <b>Technology stack used:</b> Typescript, Node.js, Firebase, Google Cloud SDK.
     <br>
     <br>
     <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
@@ -28,7 +29,7 @@
     <b>Responsibilities:</b> Implementation of the business logic with REST API that powers Instant
     Feedback app and admin interface.
     <br>
-    <b>Technology stack used:</b> Typescript, Nest.js/Node.js, PostgreSQL.
+    <b>Technology stack used:</b> Typescript, Nest.js, Node.js, PostgreSQL.
 
 - company: OEM Factory Network Limited
   position: Lead Software Engineer and Co-Founder
@@ -43,7 +44,7 @@
     <b>Responsibilities:</b> Core business logic implementation. 3rd party APIs integrations.
     Refactoring and implementation of new features. Built a microservices architecture. Led a team of five software engineers.
     <br>
-    <b>Technology stack used:</b> Python/Django, Javascript/Express.js, HTML/SCSS, MongoDB.
+    <b>Technology stack used:</b> Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL
 
 - company: Goodvert.ru
   position: Full Stack Web Developer
@@ -54,7 +55,7 @@
     <b>Responsibilities:</b> Greenfield project. Built and released an MVP. Responsible for business
     logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.
     <br>
-    <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML/CSS, MongoDB.
+    <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML, CSS, MongoDB, RabbitMQ
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
   position: Full Stack Web Developer
@@ -65,7 +66,7 @@
     <b>Responsibilities:</b> Development and maintenance of custom Django based CMS and websites
     built with it. Layout websites from the photoshop designs.
     <br>
-    <b>Technology stack used:</b> Python/Django, Javascript/jQuery, HTML/CSS, PostgreSQL.
+    <b>Technology stack used:</b> Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Developer
@@ -73,6 +74,6 @@
   summary: |
     <b>Description:</b> MetroPCS Navigator
     <br>
-    <b>Responsibilities:</b> Map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search.
+    <b>Responsibilities:</b> Map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search. Write tests.
     <br>
     <b>Technology stack used:</b> Python and OracleDB.
