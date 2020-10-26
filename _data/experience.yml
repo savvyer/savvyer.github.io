@@ -1,7 +1,17 @@
 # Jobs
+- company: StarOfService, <a href="https://www.starofservice.com/">starofservice.com/</a>
+  position: Frontend Software Engineer
+  duration:   July, 2020  &mdash; Present
+  summary: |
+    <b>Description:</b> If you're looking for a plumber, a music teacher or a DJ for your wedding, StarOfService can help you find the right one. The service is now available in 130 countries around the world and works with over 180,000 professionals in France.
+    <br>
+    <b>Responsibilities:</b> Implement new components and maintain existing ones for a proprietary design system. Rewrite and move legacy parts into the current React app. Implement real time messenger based on the proprietary GraphQL microservice.
+    <br>
+    <b>Technology stack used:</b> Typescript, Node.js, React.js, GraphQL
+
 - company: /gebrüderheitz, <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
   position: Full Stack Software Engineer
-  duration:   October, 2017  &mdash; Present
+  duration:   October, 2017  &mdash; May 2020
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
     <b>Description:</b> Leanboard is a collaborative whiteboard with sticky notes for GitHub issues.
