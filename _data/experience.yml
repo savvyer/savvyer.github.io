@@ -1,7 +1,17 @@
 # Jobs
+- company: MaestroQA, <a href="https://www.maestroqa.com/">maestroqa.com</a>
+  position: Full Stack Software Engineer
+  duration:   December, 2020  &mdash; Present
+  summary: |
+    <b>Description:</b> Modern QA software that powers customer loyalty.
+    <br>
+    <b>Responsibilities:</b> Developed features for screen capture chrome extension that boosted annual recurring revenue. Ongoing bug fixing and new feature development for coaching dashboard.
+    <br>
+    <b>Technology stack used:</b> Typescript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
+
 - company: StarOfService, <a href="https://www.starofservice.com/">starofservice.com</a>
   position: Frontend Software Engineer
-  duration:   July, 2020  &mdash; Present
+  duration:   July, 2020  &mdash; November 2020
   summary: |
     <b>Description:</b> If you're looking for a plumber, a music teacher or a DJ for your wedding, StarOfService can help you find the right one. The service is now available in 130 countries around the world and works with over 180,000 professionals in France.
     <br>
