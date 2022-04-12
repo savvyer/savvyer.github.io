@@ -5,7 +5,7 @@
   summary: |
     <b>Description:</b> Modern QA software that powers customer loyalty.
     <br>
-    <b>Responsibilities:</b> Developed features for screen capture chrome extension that boosted annual recurring revenue. Ongoing bug fixing and new feature development for coaching dashboard.
+    <b>Responsibilities:</b> Developed features for screen capture chrome extension that boosted annual recurring revenue. New feature development and bugfixing for coaching dashboard.
     <br>
     <b>Technology stack used:</b> Typescript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
 
@@ -13,7 +13,7 @@
   position: Frontend Software Engineer
   duration:   July, 2020  &mdash; November 2020
   summary: |
-    <b>Description:</b> If you're looking for a plumber, a music teacher or a DJ for your wedding, StarOfService can help you find the right one. The service is now available in 130 countries around the world and works with over 180,000 professionals in France.
+    <b>Description:</b> StarOfService can help you find a photographer, a music teacher or a DJ for your wedding.
     <br>
     <b>Responsibilities:</b> Implement new components and maintain existing ones for a proprietary design system. Rewrite and move legacy parts into the current React app. Implement real time messenger based on the proprietary GraphQL microservice.
     <br>
