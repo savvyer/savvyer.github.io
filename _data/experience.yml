@@ -1,53 +1,39 @@
 # Jobs
 - company: MaestroQA, <a href="https://www.maestroqa.com/">maestroqa.com</a>
   position: Full Stack Software Engineer
-  duration:   December, 2020  &mdash; Present
+  duration: December, 2020  &mdash; Present
   summary: |
-    <b>Description:</b> Modern QA software that powers customer loyalty.
+    <b>Responsibilities:</b> Developed features for screen capture chrome extension that boosted annual recurring revenue. New feature development and bugfixing for a coaching dashboard in the MaestroQA web app.
     <br>
-    <b>Responsibilities:</b> Developed features for screen capture chrome extension that boosted annual recurring revenue. New feature development and bugfixing for coaching dashboard.
-    <br>
-    <b>Technology stack used:</b> Typescript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
+    <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
 
 - company: StarOfService, <a href="https://www.starofservice.com/">starofservice.com</a>
   position: Frontend Software Engineer
-  duration:   July, 2020  &mdash; November 2020
+  duration: July, 2020  &mdash; November 2020
   summary: |
-    <b>Description:</b> StarOfService can help you find a photographer, a music teacher or a DJ for your wedding.
+    <b>Responsibilities:</b> Implemented new components and maintained existing ones for a proprietary design system. Rewrited and moved legacy parts into the React app. Implemented real time messenger React app with a GraphQL API.
     <br>
-    <b>Responsibilities:</b> Implement new components and maintain existing ones for a proprietary design system. Rewrite and move legacy parts into the current React app. Implement real time messenger based on the proprietary GraphQL microservice.
-    <br>
-    <b>Technology stack used:</b> Typescript, Node.js, React.js, GraphQL
+    <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, GraphQL, Prisma
 
 - company: /gebrüderheitz, <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
   position: Full Stack Software Engineer
-  duration:   October, 2017  &mdash; May 2020
+  duration: October, 2017  &mdash; May 2020
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
-    <b>Description:</b> Leanboard is a collaborative whiteboard with sticky notes for GitHub issues.
-    <br>
-    <b>Responsibilities:</b> Design an architecture of the app. Frontend and backend REST API
-    development. Github API integration. Development of the real time communication with websockets.
-    DevOps, setup CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.
+    <b>Responsibilities:</b> Designed an architecture of the app. Developed frontend React app and REST API. Integrated with Github API. Implemented a real time user collaboration feature with websockets.
+    Setup CI/CD process with GitHub, CircleCI, Docker and Heroku Cloud.
     <br>
     <b>Technology stack used:</b> Typescript, Nest.js, Node.js, React.js, Redux, Websockets, Socket.io, PostgreSQL, Docker, Nginx, Bash scripting
     <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    <b>Description:</b> The Urban Challenger Rally is a city exploration game. Teams of 6-8 people
-    compete against each other in completing as many of our challenges in a time frame of three hours.
-    <br>
-    <b>Responsibilities:</b> Cloud functions development: handle user photo uploads, game logic events. <br>
-    Set up rules and manage Firebase datastore.
+    <b>Responsibilities:</b> Implemented an API with cloud functions. Setup rules and manage Firebase datastore.
     <br>
     <b>Technology stack used:</b> Typescript, Node.js, Firebase, Google Cloud SDK.
     <br>
     <br>
     <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
-    <b>Description:</b> The Instant Feedback app enables employees to give and receive feedback within their own organizational areas independent of their location or time.
-    <br>
-    <b>Responsibilities:</b> Implementation of the business logic with REST API that powers Instant
-    Feedback app and admin interface.
+    <b>Responsibilities:</b> Implemented REST API that powers Instant Feedback web app and an admin interface.
     <br>
     <b>Technology stack used:</b> Typescript, Nest.js, Node.js, PostgreSQL.
 
@@ -55,45 +41,32 @@
   position: Lead Software Engineer and Co-Founder
   duration: February, 2013 &mdash; December, 2017
   summary: |
-    Co-founded the company and sold to <a href="https://www.gracekarin.com/">Grace Karin</a><br>
-    <b>Description:</b> E-commerce SaaS app for Chinese market. Real-time product inventory
-    management. Order tracking and integration with shipping providers like China Post, Hong
-    Kong Post, 4PX, SF Express. Product feed generation for online marketplaces like Amazon,
-    eBay, Walmart.
-    <br>
-    <b>Responsibilities:</b> Core business logic implementation. 3rd party APIs integrations.
-    Refactoring and implementation of new features. Built a microservices architecture. Led a team of five software engineers.
+    <b>Responsibilities:</b> Implemented order tracking dashboard UI and REST API. 3rd party APIs integrations. Led a team of five developers.
     <br>
     <b>Technology stack used:</b> Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL
 
 - company: Goodvert.ru
-  position: Full Stack Web Developer
-  duration:   September, 2012  &mdash; December, 2012
+  position: Full Stack Software Engineer
+  duration: September, 2012  &mdash; December, 2012
   summary: |
-    <b>Description:</b> Goodvert - cost per action (CPA) affiliate network.
+    <b>Responsibilities:</b> Built and released an MVP. Implementated REST API. Developed UI dashboards for various user roles.
     <br>
-    <b>Responsibilities:</b> Greenfield project. Built and released an MVP. Responsible for business
-    logic implementation with REST API. Development of the admin/affiliates/advertisers interfaces.
-    <br>
-    <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML, CSS, MongoDB, RabbitMQ
+    <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML, CSS, MongoDB
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
-  position: Full Stack Web Developer
-  duration:   August, 2011  &mdash; July, 2012
+  position: Full Stack Software Engineer
+  duration: August, 2011  &mdash; July, 2012
   summary: |
     <b>Description:</b> 
     <br>
-    <b>Responsibilities:</b> Development and maintenance of custom Django based CMS and websites
-    built with it. Layout websites from the photoshop designs.
+    <b>Responsibilities:</b> Developed websites.
     <br>
     <b>Technology stack used:</b> Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Developer
-  duration:   February, 2010  &mdash; April, 2011
+  duration: February, 2010  &mdash; April, 2011
   summary: |
-    <b>Description:</b> MetroPCS Navigator
+    <b>Responsibilities:</b> Maintained and implemented new features for GPS maps API.
     <br>
-    <b>Responsibilities:</b> Map adjustments, enable/disable objects on different zoom levels, fix object draw sizes. Improve geoname search. Write tests.
-    <br>
-    <b>Technology stack used:</b> Python and OracleDB.
+    <b>Technology stack used:</b> Python, OracleDB.
