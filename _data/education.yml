@@ -1,8 +1,10 @@
 # Degree
 - degree: Computer Engineering
-  uni: Nizhny Novgorod Radio-Technical College
+  uni: Nizhny Novgorod Radio-Technical College <a href="https://nntc.nnov.ru/">nntc.nnov.ru</a>
   year: 2006 &mdash; 2010
+  summary: The education course covers the development and production of computer systems, technical maintenance and tuning, and ensuring information security. Topics include designing digital devices, applying microprocessor systems, and configuring peripheral equipment. Graduates also have a strong foundation in general education, including mathematics and information technology, as well as specific professional modules such as operating systems, algorithms, programming, and database design.
  
-- degree: Continuos self paced learning with online courses and books
-  uni: Online Schools
+- degree: Software Developer
+  uni: Udemy, Coursera, YouTube etc
   year: 2003 &mdash; present
+  summary: As a dedicated and self-motivated professional, I have pursued continuous learning through online education platforms such as Udemy, Coursera, and Youtube. With a passion for staying ahead of the curve in the dynamic field of software engineering, I have pursued a range of courses and books that have deepened my knowledge and skills in areas such as coding, software design, and emerging technologies. This approach to education has enabled me to maintain a cutting-edge skillset and a commitment to delivering innovative solutions in my work.
