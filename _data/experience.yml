@@ -1,6 +1,6 @@
 # Jobs
 - company: MaestroQA, <a href="https://www.maestroqa.com/">maestroqa.com</a>
-  position: Full Stack Software Engineer
+  position: Software Engineer
   duration: December, 2020  &mdash; Present
   summary: |
     <b>Responsibilities:</b> Designed and developed a Google Chrome extension enabling screen and audio capture within Zendesk and Salesforce platforms. Enhanced the MaestroQA web app by creating new features and functionalities for the coaching dashboard.
@@ -8,7 +8,7 @@
     <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
 
 - company: StarOfService, <a href="https://www.starofservice.com/">starofservice.com</a>
-  position: Frontend Software Engineer
+  position: Software Engineer
   duration: July, 2020  &mdash; November 2020
   summary: |
     <b>Responsibilities:</b> Created and integrated new components while maintaining and optimizing existing ones within a proprietary design system. Successfully refactored and transitioned legacy code into a modern React application. Developed a real-time messaging React app, utilizing a GraphQL API for efficient data handling and communication.
@@ -16,7 +16,7 @@
     <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, GraphQL, Prisma
 
 - company: /gebrüderheitz, <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
-  position: Full Stack Software Engineer
+  position: Software Engineer
   duration: October, 2017  &mdash; May 2020
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
@@ -37,7 +37,7 @@
     <b>Technology stack used:</b> Typescript, Nest.js, Node.js, PostgreSQL.
 
 - company: OEM Factory Network Limited
-  position: Full Stack Software Engineer
+  position: Software Engineer
   duration: February, 2013 &mdash; December, 2017
   summary: |
     <b>Responsibilities:</b> Developed a comprehensive order tracking dashboard and corresponding REST API, while seamlessly integrating various 3rd party APIs. Collaborated on both frontend and backend development to ensure a cohesive and efficient user experience.
@@ -45,7 +45,7 @@
     <b>Technology stack used:</b> Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL
 
 - company: Goodvert
-  position: Full Stack Software Engineer
+  position: Software Engineer
   duration: September, 2012  &mdash; December, 2012
   summary: |
     <b>Responsibilities:</b> Designed and implemented a robust REST API, while developing intuitive and responsive UI dashboards tailored to the needs of different user roles. Successfully built and launched a minimum viable product (MVP) showcasing the core functionalities of the application.
@@ -53,12 +53,10 @@
     <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML, CSS, MongoDB
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
-  position: Full Stack Software Engineer
+  position: Software Engineer
   duration: August, 2011  &mdash; July, 2012
   summary: |
-    <b>Description:</b> 
-    <br>
-    <b>Responsibilities:</b> Skillfully transformed Photoshop mockups into fully functional websites while adhering to best practices in design and user experience. Diligently maintained existing websites, adapting and tailoring them according to client requirements and preferences.
+    <b>Responsibilities:</b> Web Development from Design Mockups.
     <br>
     <b>Technology stack used:</b> Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop
 
@@ -66,6 +64,6 @@
   position: Software Engineer
   duration: February, 2010  &mdash; April, 2011
   summary: |
-    <b>Responsibilities:</b> Efficiently customized and configured navigation maps for client devices, adjusting elements such as road sizes, street name visibility based on scaling, and other relevant features.
+    <b>Responsibilities:</b> Navigation maps configuration and customization.
     <br>
-    <b>Technology stack used:</b> Python, OracleDB.
+    <b>Technology stack used:</b> Python.
