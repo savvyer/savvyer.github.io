@@ -1,12 +1,10 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
-
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
-
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: 
+  description: |
+    JavaScript / TypeScript / Node.js / Nest.js / Express.js / React / Redux / Next.js / Scss / Less / Jest / Mocha / Handlebars / jQuery
+    <br>
+    GraphQL / REST / Prisma / Websockets / PostgreSQL / MySQL / MongoDB / Firebase / Lambda / AWS S3 / Chrome Extension API
+    <br>
+    CI/CD / Docker / CircleCI / Nginx / Unit testing / E2E testing / Screenshot testing / OOP / Microservices / Frontend / Backend / Full-Stack
+    <br>
+    Python / Django / C / C# / Rust
