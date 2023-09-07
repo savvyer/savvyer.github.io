@@ -1,10 +1,9 @@
 # Skills
 - skill: 
-  description: |
-    JavaScript ⋅ TypeScript ⋅ Node.js ⋅ Nest.js ⋅ Express.js ⋅ React ⋅ Redux ⋅ Next.js ⋅ Scss ⋅ Less ⋅ Jest ⋅ Mocha ⋅ Handlebars ⋅ jQuery
-    <br><br>
-    GraphQL ⋅ REST ⋅ Prisma ⋅ Websockets ⋅ PostgreSQL ⋅ MySQL ⋅ MongoDB ⋅ Firebase ⋅ Lambda ⋅ AWS S3 ⋅ Chrome Extension API
-    <br><br>
-    CI/CD ⋅ Docker ⋅ CircleCI ⋅ Nginx ⋅ Unit testing ⋅ E2E testing ⋅ Screenshot testing ⋅ OOP ⋅ Microservices ⋅ Frontend ⋅ Backend ⋅ Full-Stack
-    <br><br>
-    Python ⋅ Django ⋅ C ⋅ C# ⋅ Rust
+  description: JavaScript ⋅ TypeScript ⋅ Node.js ⋅ Nest.js ⋅ Express.js ⋅ React ⋅ Redux ⋅ Next.js ⋅ Scss ⋅ Less ⋅ Jest ⋅ Mocha ⋅ Handlebars ⋅ jQuery
+- skill: 
+  description: GraphQL ⋅ REST ⋅ Prisma ⋅ Websockets ⋅ PostgreSQL ⋅ MySQL ⋅ MongoDB ⋅ Firebase ⋅ Lambda ⋅ AWS S3 ⋅ Chrome Extension API
+- skill: 
+  description: CI/CD ⋅ Docker ⋅ CircleCI ⋅ Nginx ⋅ Unit testing ⋅ E2E testing ⋅ Screenshot testing ⋅ OOP ⋅ Microservices ⋅ Frontend ⋅ Backend ⋅ Full-Stack
+- skill: 
+  description: Python ⋅ Django ⋅ C ⋅ C# ⋅ Rust
