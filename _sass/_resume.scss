@@ -5,7 +5,7 @@
 
 .section-header {
   @include section_border;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 
   h2 {
     @include sans;
