@@ -3,67 +3,79 @@
   position: Software Engineer
   duration: December, 2020  &mdash; Present
   summary: |
-    <b>Responsibilities:</b> Designed and developed a Google Chrome extension enabling screen and audio capture within Zendesk and Salesforce platforms. Enhanced the MaestroQA web app by creating new features and functionalities for the coaching dashboard.
+    Designed and developed a Google Chrome extension that enables screen and audio capture, handling hundreds of thousands of recordings every day.
     <br>
-    <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL
+    Led the end-to-end development of several products, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, and monitors.
+    <br>
+    Led the design and development of the internal REST API framework, enabling a smooth transition from Meteor methods.
+    <br>
+    Identified and successfully remediated long-standing, high-risk security vulnerabilities within the app, significantly bolstering its resilience to cyber threats. 
+    <br>
+    ( Typescript, Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL, Github Actions, Slack API, Chrome API )
 
 - company: StarOfService, <a href="https://www.starofservice.com/">starofservice.com</a>
   position: Software Engineer
   duration: July, 2020  &mdash; November 2020
   summary: |
-    <b>Responsibilities:</b> Created and integrated new components while maintaining and optimizing existing ones within a proprietary design system. Successfully refactored and transitioned legacy code into a modern React application. Developed a real-time messaging React app, utilizing a GraphQL API for efficient data handling and communication.
+    Implemented a real-time messaging React app, utilizing a GraphQL API for efficient data handling and communication.
     <br>
-    <b>Technology stack used:</b> Typescript/Javascript, Node.js, React.js, GraphQL, Prisma
+    Created and integrated new components while maintaining and optimizing existing ones within a proprietary design system.
+    <br>
+    Successfully refactored and transitioned legacy code into a modern React application.
+    <br>
+    ( Typescript, Javascript, Node.js, React.js, GraphQL, Prisma )
 
 - company: /gebrüderheitz, <a href="https://gebruederheitz.de/">gebruederheitz.de</a>
   position: Software Engineer
   duration: October, 2017  &mdash; May 2020
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
-    <b>Responsibilities:</b> Architected and developed the application, including a frontend React app, REST API, and integration with GitHub API. Implemented real-time user collaboration features utilizing WebSockets. Established a CI/CD process using GitHub, CircleCI, Docker, and Heroku Cloud.
+    Designed and implemented a real-time user collaboration application utilizing WebSockets and seamlessly integrated it with the GitHub.
     <br>
-    <b>Technology stack used:</b> Typescript, Nest.js, Node.js, React.js, Redux, Websockets, Socket.io, PostgreSQL, Docker, Nginx, Bash scripting
+    Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
+    <br>
+    ( Typescript, Nest.js, Node.js, React.js, Redux, Socket.io, PostgreSQL, Docker, Nginx, Bash, CircleCI, Heroku )
     <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    <b>Responsibilities:</b> Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore.
+    Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore.
     <br>
-    <b>Technology stack used:</b> Typescript, Node.js, Firebase, Google Cloud SDK.
+    ( Typescript, Node.js, Firebase, Google Cloud SDK )
     <br>
     <br>
     <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
-    <b>Responsibilities:</b> Designed and implemented a REST API to power the Instant Feedback web app, iOS app, and Android app.
+    Designed and implemented scalable APIs to power the Instant Feedback web and mobile apps.
     <br>
-    <b>Technology stack used:</b> Typescript, Nest.js, Node.js, PostgreSQL.
+    ( Typescript, Nest.js, Node.js, PostgreSQL )
 
 - company: OEM Factory Network Limited
   position: Software Engineer & Co-Founder
   duration: February, 2013 &mdash; December, 2017
   summary: |
-    <b>Responsibilities:</b> Developed a comprehensive order tracking dashboard and corresponding REST API, while seamlessly integrating various 3rd party APIs. Collaborated on both frontend and backend development to ensure a cohesive and efficient user experience.
+    Developed a comprehensive order tracking dashboard and corresponding REST API, while seamlessly integrating various 3rd party APIs. Collaborated on both frontend and backend development to ensure a cohesive and efficient user experience.
     <br>
-    <b>Technology stack used:</b> Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL
+    ( Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL )
 
 - company: Goodvert
   position: Software Engineer
   duration: September, 2012  &mdash; December, 2012
   summary: |
-    <b>Responsibilities:</b> Designed and implemented a robust REST API, while developing intuitive and responsive UI dashboards tailored to the needs of different user roles. Launched a MVP showcasing the core functionalities of the application.
+    Designed and implemented a robust REST API, while developing intuitive and responsive UI dashboards tailored to the needs of different user roles. Launched a MVP showcasing the core functionalities of the application.
     <br>
-    <b>Technology stack used:</b> Javascript, Node.js, Ext.js, HTML, CSS, MongoDB
+    ( Javascript, Node.js, Ext.js, HTML, CSS, MongoDB )
 
 - company: Ixxy Ltd, <a href="https://www.ixxy.co.uk/">www.ixxy.co.uk</a>
   position: Software Engineer
   duration: August, 2011  &mdash; July, 2012
   summary: |
-    <b>Responsibilities:</b> Web Development from Design Mockups.
+    Web Development from Design Mockups.
     <br>
-    <b>Technology stack used:</b> Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop
+    ( Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop )
 
 - company: Mera Networks, <a href="https://www.mera.com/">www.mera.com</a>
   position: Software Engineer
   duration: February, 2010  &mdash; April, 2011
   summary: |
-    <b>Responsibilities:</b> Navigation maps configuration and customization.
+    Navigation maps configuration and customization.
     <br>
-    <b>Technology stack used:</b> Python.
+    ( Python )
