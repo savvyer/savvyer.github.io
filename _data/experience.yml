@@ -3,13 +3,13 @@
   position: Software Engineer
   duration: December, 2020  &mdash; Present
   summary: |
-    Designed and developed a Google Chrome extension that enables screen and audio capture, handling hundreds of thousands of recordings every day.
+    • Designed and developed a Google Chrome extension that enables screen and audio capture, handling hundreds of thousands of recordings every day.
     <br>
-    Led the end-to-end development of several products, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, and monitors.
+    • Led the end-to-end development of several products, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, and monitors.
     <br>
-    Led the design and development of the internal REST API framework, enabling a smooth transition from Meteor methods.
+    • Led the design and development of the internal REST API framework, enabling a smooth transition from Meteor methods.
     <br>
-    Identified and successfully remediated long-standing, high-risk security vulnerabilities within the app, significantly bolstering its resilience to cyber threats. 
+    • Identified and successfully remediated long-standing, high-risk security vulnerabilities within the app, significantly bolstering its resilience to cyber threats. 
     <br>
     ( Typescript, Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL, Github Actions, Slack API, Chrome API )
 
@@ -17,11 +17,11 @@
   position: Software Engineer
   duration: July, 2020  &mdash; November 2020
   summary: |
-    Implemented a real-time messaging React app, utilizing a GraphQL API for efficient data handling and communication.
+    • Implemented a real-time messaging React app, utilizing a GraphQL API for efficient data handling and communication.
     <br>
-    Created and integrated new components while maintaining and optimizing existing ones within a proprietary design system.
+    • Created and integrated new components while maintaining and optimizing existing ones within a proprietary design system.
     <br>
-    Successfully refactored and transitioned legacy code into a modern React application.
+    • Successfully refactored and transitioned legacy code into a modern React application.
     <br>
     ( Typescript, Javascript, Node.js, React.js, GraphQL, Prisma )
 
@@ -30,21 +30,21 @@
   duration: October, 2017  &mdash; May 2020
   summary: |
     <a href="https://www.leanboard.io/">Leanboard</a><br>
-    Designed and implemented a real-time user collaboration application utilizing WebSockets and seamlessly integrated it with the GitHub.
+    • Designed and implemented a real-time user collaboration application utilizing WebSockets and seamlessly integrated it with the GitHub.
     <br>
-    Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
+    • Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
     <br>
     ( Typescript, Nest.js, Node.js, React.js, Redux, Socket.io, PostgreSQL, Docker, Nginx, Bash, CircleCI, Heroku )
     <br>
     <br>
     <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore.
+    • Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore.
     <br>
     ( Typescript, Node.js, Firebase, Google Cloud SDK )
     <br>
     <br>
     <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
-    Designed and implemented scalable APIs to power the Instant Feedback web and mobile apps.
+    • Designed and implemented scalable APIs to power the Instant Feedback web and mobile apps.
     <br>
     ( Typescript, Nest.js, Node.js, PostgreSQL )
 
@@ -52,7 +52,7 @@
   position: Software Engineer & Co-Founder
   duration: February, 2013 &mdash; December, 2017
   summary: |
-    Developed a comprehensive order tracking dashboard and corresponding REST API, while seamlessly integrating various 3rd party APIs. Collaborated on both frontend and backend development to ensure a cohesive and efficient user experience.
+    • Developed a comprehensive order tracking dashboard and corresponding REST API, while seamlessly integrating various 3rd party APIs. Collaborated on both frontend and backend development to ensure a cohesive and efficient user experience.
     <br>
     ( Python, Django, Javascript, Express.js, jQuery, HTML, SCSS, MongoDB, MySQL )
 
@@ -60,7 +60,7 @@
   position: Software Engineer
   duration: September, 2012  &mdash; December, 2012
   summary: |
-    Designed and implemented a robust REST API, while developing intuitive and responsive UI dashboards tailored to the needs of different user roles. Launched a MVP showcasing the core functionalities of the application.
+    • Designed and implemented a robust REST API, while developing intuitive and responsive UI dashboards tailored to the needs of different user roles. Launched a MVP showcasing the core functionalities of the application.
     <br>
     ( Javascript, Node.js, Ext.js, HTML, CSS, MongoDB )
 
@@ -68,7 +68,7 @@
   position: Software Engineer
   duration: August, 2011  &mdash; July, 2012
   summary: |
-    Web Development from Design Mockups.
+    • Web Development from Design Mockups.
     <br>
     ( Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop )
 
@@ -76,6 +76,6 @@
   position: Software Engineer
   duration: February, 2010  &mdash; April, 2011
   summary: |
-    Navigation maps configuration and customization.
+    • Navigation maps configuration and customization.
     <br>
     ( Python )
