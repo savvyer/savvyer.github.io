@@ -17,7 +17,7 @@
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
-        <div class="header-name" itemprop="name"><span>{{ site.resume_name }}</span><span>{% include icon-links.html %}</span></div>
+        <div class="header-name" itemprop="name"><span>{{ site.resume_name }}</span><span class="no-print">{% include icon-links.html %}</span></div>
 
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
         <div class="header-contact-info print-only">
