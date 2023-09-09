@@ -14,9 +14,9 @@ resume_name:                    "Anton Zhuravlev"
 resume_title:                   "Full Stack Software Engineer"
 resume_contact_email:           ""
 resume_contact_telephone:       ""
-resume_contact_address:         ""
+resume_contact_address:         "toha.jur@gmail.com"
 resume_header_contact_info:     ""
-resume_header_intro: "<p>Javascript frontend/backend web developer with 10+ years of experience.</p>"
+resume_header_intro: "<p>Software Engineer with 10+ years of experience.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,7 +33,7 @@ resume_section_skills:          true
 #resume_section_recognition:     true
 #resume_section_links:           true
 #resume_section_associations:    true
-resume_section_interests:       true
+#resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -45,7 +45,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/anton-zhuravlev-560722169/"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
