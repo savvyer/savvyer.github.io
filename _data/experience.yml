@@ -29,22 +29,15 @@
   position: Software Engineer
   duration: October, 2017  &mdash; May 2020
   summary: |
-    <a href="https://www.leanboard.io/">Leanboard</a><br>
     • Designed and implemented a real-time user collaboration application utilizing WebSockets and seamlessly integrated it with the GitHub.
     <br>
-    • Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
+    • Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing.
     <br>
-    ( Typescript, Nest.js, Node.js, React.js, Redux, Socket.io, PostgreSQL, Docker, Nginx, Bash, CircleCI, Heroku )
+    • Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore for <a href="https://www.urbanchallenger.com/">Urban Challenger</a>
     <br>
-    <a href="https://itunes.apple.com/app/urban-challenger-rally-2-0/id1421672501">Urban Challenger Rally 2.0</a><br>
-    • Developed a robust API using cloud functions, set up security rules, and managed the Firebase datastore.
+    • Designed and implemented scalable APIs to power the <a href="https://www.umantis.com/feedback">Instant Feedback</a> web and mobile apps.
     <br>
-    ( Typescript, Node.js, Firebase, Google Cloud SDK )
-    <br>
-    <a href="https://www.umantis.com/feedback">Instant Feedback App</a><br>
-    • Designed and implemented scalable APIs to power the Instant Feedback web and mobile apps.
-    <br>
-    ( Typescript, Nest.js, Node.js, PostgreSQL )
+    ( Typescript, Nest.js, Node.js, React.js, Redux, Socket.io, PostgreSQL, Firebase, Docker, Nginx, Bash, CircelCI, Heroku, Google Cloud )
 
 - company: OEM Factory Network Limited
   position: Software Engineer & Co-Founder
