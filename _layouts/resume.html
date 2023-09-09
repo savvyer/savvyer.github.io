@@ -67,7 +67,7 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }}  &bull;  {{ job.duration }}  &bull;  {{ job.company }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &nbsp;&nbsp; &bull; &nbsp;&nbsp; {{ job.company }} &nbsp;&nbsp; &bull; &nbsp;&nbsp; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
