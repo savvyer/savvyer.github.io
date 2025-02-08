@@ -1,10 +1,8 @@
 # Skills
 - skill: 
   description: |
-    • JavaScript ⋅ TypeScript ⋅ Node.js ⋅ Bun ⋅ Nest.js ⋅ Express.js ⋅ React ⋅ Redux ⋅ Next.js ⋅ Scss ⋅ Styled Components ⋅ Jest ⋅ Handlebars ⋅ jQuery
-    <br>
-    • GraphQL ⋅ REST ⋅ Prisma ⋅ Websockets ⋅ PostgreSQL ⋅ MySQL ⋅ MongoDB ⋅ Firebase ⋅ Lambda ⋅ AWS S3 ⋅ Chrome Extension ⋅ Github
-    <br>
-    • CI/CD ⋅ Docker ⋅ CircleCI ⋅ Nginx ⋅ Unit testing ⋅ E2E testing ⋅ Screenshot testing ⋅ OOP ⋅ Microservices ⋅ Frontend ⋅ Backend ⋅ Full-Stack
-    <br>
-    • Python ⋅ Django ⋅ C ⋅ C# ⋅ Unity3D ⋅ Pascal ⋅ Delphi ⋅ PHP
+• Frontend: JavaScript (ES6+), TypeScript, React.js, Redux, Next.js
+• Backend & Full-Stack: Node.js, Bun, NestJS, Express.js, Docker
+• Databases: PostgreSQL, MongoDB, Firebase
+• Cloud & DevOps: AWS Services (Lambda, S3), Heroku, CircleCI, Github Actions
+• Testing & Quality Assurance: Unit Testing with Jest, E2E Testing with Cypress/Playwright
