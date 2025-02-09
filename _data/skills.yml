@@ -2,7 +2,11 @@
 - skill: 
   description: |
     • Frontend: JavaScript (ES6+), TypeScript, React.js, Redux, Next.js
+    <br>
     • Backend & Full-Stack: Node.js, Bun, NestJS, Express.js, Docker
+    <br>
     • Databases: PostgreSQL, MongoDB, Firebase
+    <br>
     • Cloud & DevOps: AWS Services (Lambda, S3), Heroku, CircleCI, Github Actions
+    <br>
     • Testing & Quality Assurance: Unit Testing with Jest, E2E Testing with Cypress/Playwright
