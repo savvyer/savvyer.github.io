@@ -1,19 +1,30 @@
 # Jobs
-- company: <a href="https://www.linkedin.com/company/maestroqa/about/">MaestroQA</a>
+- company: <a href="https://www.gebruederheitz.de/">/gebrüderheitz</a>
   position: Software Engineer
-  duration: December, 2020  &mdash; Present
+  duration: May, 2024  &mdash; Present
   summary: |
-    • Designed and developed a Google Chrome extension that enables screen and audio capture, handling hundreds of thousands of recordings every day.
+    • Developed the <a href="https://www.lawlink.de/">Lawlink</a> cross browser extension that helps lawyers in Germany to easily find and navigate legal citations on websites or PDF files.
     <br>
-    • Led the end-to-end development of several products, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, and monitors.
+    • Setup testing and release pipelines for the browser extension.
     <br>
-    • Led the design and development of the internal REST API framework, enabling a smooth transition from Meteor methods.
+    • Maintained and developed new features for the REST API.
+    ( Typescript, Javascript, Node.js, Nest.js, React.js, Docker, Playwright, Github Actions, Chrome API )
+
+- company: <a href="https://www.maestroqa.com/">MaestroQA</a>
+  position: Software Engineer
+  duration: December, 2020  &mdash; December 2023
+  summary: |
+    • Developed a Google Chrome extension that enables screen and audio capture, handling hundreds of thousands of recordings every day.
+    <br>
+    • End-to-end development of several products, from identifying system requirements and partner dependencies to workload balancing, software implementation, engineering, testing, and configuring metrics, alarms, and monitors.
+    <br>
+    • Designed and developed internal REST API framework, enabling a smooth transition from Meteor methods.
     <br>
     • Identified and successfully remediated long-standing, high-risk security vulnerabilities within the app, significantly bolstering its resilience to cyber threats. 
     <br>
     ( Typescript, Javascript, Node.js, React.js, Meteor, MongoDB, PostgreSQL, Github Actions, Slack API, Chrome API )
 
-- company: <a href="https://www.linkedin.com/company/starofservice-com/about/">StarOfService</a>
+- company: <a href="https://www.starofservice.com/">StarOfService</a>
   position: Software Engineer
   duration: July, 2020  &mdash; November 2020
   summary: |
@@ -25,7 +36,7 @@
     <br>
     ( Typescript, Javascript, Node.js, React.js, GraphQL, Prisma )
 
-- company: <a href="https://www.linkedin.com/company/gebruederheitz/about/">/gebrüderheitz</a>
+- company: <a href="https://www.gebruederheitz.de/">/gebrüderheitz</a>
   position: Software Engineer
   duration: October, 2017  &mdash; May 2020
   summary: |
@@ -55,7 +66,7 @@
     <br>
     ( Javascript, Node.js, Ext.js, HTML, CSS, MongoDB )
 
-- company: <a href="https://www.linkedin.com/company/ixxy/about/">Ixxy</a>
+- company: Ixxy
   position: Software Engineer
   duration: August, 2011  &mdash; July, 2012
   summary: |
@@ -63,7 +74,7 @@
     <br>
     ( Python, Django, Javascript, jQuery, HTML, CSS, PostgreSQL, Photoshop )
 
-- company: <a href="https://www.linkedin.com/company/mera/">Mera Networks</a>
+- company: Mera Networks
   position: Software Engineer
   duration: February, 2010  &mdash; April, 2011
   summary: |
