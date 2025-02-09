@@ -1,12 +1,12 @@
 # Skills
 - skill: 
   description: |
-    • Frontend: JavaScript, TypeScript, React.js, Redux, Next.js
+    • <b>Frontend:</b> JavaScript, TypeScript, React.js, Redux, Next.js
     <br>
-    • Backend & Full-Stack: Node.js, Bun, NestJS, Express.js, Hono, Docker
+    • <b>Backend & Full-Stack:</b> Node.js, Bun, NestJS, Express.js, Hono, Docker
     <br>
-    • Databases: PostgreSQL, MongoDB, Firebase
+    • <b>Databases:</b> PostgreSQL, MongoDB, Firebase
     <br>
-    • Cloud & DevOps: AWS Services (Lambda, S3), Heroku, CircleCI, Github Actions
+    • <b>Cloud & DevOps:</b> AWS Services (Lambda, S3), Heroku, CircleCI, Github Actions
     <br>
-    • Testing & Quality Assurance: Unit Testing with Jest, E2E Testing with Cypress/Playwright
+    • <b>Testing & Quality Assurance:</b> Unit Testing with Jest, E2E Testing with Cypress/Playwright
