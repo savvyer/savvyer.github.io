@@ -1,9 +1,9 @@
 # Skills
 - skill: 
   description: |
-    • Frontend: JavaScript (ES6+), TypeScript, React.js, Redux, Next.js
+    • Frontend: JavaScript, TypeScript, React.js, Redux, Next.js
     <br>
-    • Backend & Full-Stack: Node.js, Bun, NestJS, Express.js, Docker
+    • Backend & Full-Stack: Node.js, Bun, NestJS, Express.js, Hono, Docker
     <br>
     • Databases: PostgreSQL, MongoDB, Firebase
     <br>
