@@ -1,0 +1,135 @@
+{
+  "fullName": "Anton Zhuravlev",
+  "githubUrl": "https://github.com/savvyer",
+  "email": "toha.jur+cv@gmail.com",
+  "title": "Full Stack Software Engineer",
+  "skills": [
+    {
+      "area": "Frontend: ",
+      "stack": "JavaScript, TypeScript, React, Redux, Storybook"
+    },
+    {
+      "area": "Backend & Full-Stack: ",
+      "stack": "Node, Bun, Nest, Express, Hono, Next"
+    },
+    {
+      "area": "Databases: ",
+      "stack": "PostgreSQL, MongoDB, Firebase"
+    },
+    {
+      "area": "Cloud & DevOps: ",
+      "stack": "Github Actions, Docker"
+    },
+    {
+      "area": "Testing: ",
+      "stack": "Unit Testing with Jest, E2E Testing with Cypress/Playwright"
+    }
+  ],
+  "experience": [
+    {
+      "company": "/gebrüderheitz",
+      "link": "https://www.gebruederheitz.de/",
+      "position": "Senior software engineer",
+      "duration": "May, 2024 - Present",
+      "summary": [
+        "Developed browser extension \"Lawlink\" using WXT and React frameworks for seamless integration with German law databases.",
+        "Implemented secure authentication using Identity API and Keycloak to ensure trusted user access.",
+        "Added caching mechanism via browser storage APIs, significantly improving HTML and PDF processing speed.",
+        "Created GitHub Actions setup for code linting, Playwrite testing, and automated release builds, boosting code quality and publishing efficiency."
+      ]
+    },
+    {
+      "company": "MaestroQA",
+      "link": "https://www.maestroqa.com/",
+      "duration": "December, 2020 - December 2023",
+      "position": "Senior software engineer",
+      "summary": [
+        "Integrated Salesforce & Five9 into \"MaestroQA\" Chrome extension, converting clients and reducing churn.",
+        "Designed and developed REST API framework enabling transition from Meteor methods, reducing server load and abstraction from Meter dependencies to move to another Node.js-based framework.",
+        "Identified and addressed critical security vulnerabilities in SSO authentication mechanism, enhancing resilience against cyber threats."
+      ]
+    },
+    {
+      "company": "StarOfService",
+      "link": "https://www.starofservice.com/",
+      "duration": "July, 2020 - November 2020",
+      "position": "Senior software developer",
+      "summary": [
+        "Implemented a real-time messenger using React, GraphQL, and Prisma to enhance communication between professionals and clients.",
+        "Created new UI components with React and Storybook and optimized rendering performance of several core components in an internal design system."
+      ]
+    },
+    {
+      "company": "/gebrüderheitz",
+      "link": "https://www.gebruederheitz.de/",
+      "duration": "October, 2017 - May 2020",
+      "position": "Senior software developer",
+      "summary": [
+        "Developed a whiteboard collaboration tool \"Leanboard\" using React, Redux, and Socket.io for real-time user interaction.",
+        "Introduced CI/CD pipelines with GitHub Actions, Docker, and Heroku to accelerate feature delivery and bug fixes.",
+        "Created a backend API with Firebase Cloud Functions to power the mobile app \"Urban Challenger,\" enhancing functionality and performance.",
+        "Implemented REST API with NestJS for employee survey and feedback system used at \"Deutsche Telekom\""
+      ]
+    },
+    {
+      "company": "Upwork",
+      "link": "https://www.upwork.com/",
+      "duration": "February, 2013 - December, 2017",
+      "position": "Freelance software developer",
+      "summary": [
+        "Developed an order tracking dashboard for a Chinese fashion retailer managing brands like Belle Poque and Paul Jones, streamlining their manual Excel-based process across multiple marketplaces.",
+        "Integrated shipping providers including Hongkong Post, 4PX, and China Post to enhance logistics operations."
+      ]
+    },
+    {
+      "company": "Ixxy",
+      "link": "https://www.ixxy.co.uk/",
+      "duration": "August, 2011 - July, 2012",
+      "position": "Middle software developer",
+      "summary": [
+        "Translated Photoshop designs into fully functional websites using Django for clients including \"The Lily Foundation\" and \"Crown Gardens\", ensuring seamless implementation of visual concepts into live web experiences.",
+        "Engineered numerous bug fixes and innovative features for a proprietary Django-based CMS, enhancing overall user satisfaction and system performance."
+      ]
+    },
+    {
+      "company": "Mera Networks",
+      "link": "http://meranetworks.com/",
+      "duration": "February, 2010 - April, 2011",
+      "position": "Junior software developer",
+      "summary": [
+        "Spearheaded bugfixes, configuration, and improvements for Navitel maps using Python, delivering numerous enhancements to navigation systems.",
+        "Developed a web dashboard using Django for remote computer configuration and management (precursor to Ansible), collaborating with the engineering team to deliver an MVP."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S. Computer Systems and Networks",
+      "uni": "Radio Engineering College, Nizhny Novgorod, Russia",
+      "link": "https://nntc.nnov.ru/",
+      "year": "2006 - 2010"
+    }
+  ],
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "Node",
+    "Bun",
+    "Deno",
+    "Nest",
+    "Express",
+    "Hono",
+    "Next",
+    "PostgreSQL",
+    "MongoDB", 
+    "Firebase",
+    "Github Actions",
+    "Docker",
+    "Jest",
+    "Vitest",
+    "Playwright",
+    "Cypress"
+  ]
+}
