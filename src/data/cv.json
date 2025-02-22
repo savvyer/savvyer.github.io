@@ -53,7 +53,7 @@
       "company": "StarOfService",
       "link": "https://www.starofservice.com/",
       "duration": "July, 2020 - November 2020",
-      "position": "Senior software developer",
+      "position": "Senior software engineer",
       "summary": [
         "Implemented a real-time messenger using React, GraphQL, and Prisma to enhance communication between professionals and clients.",
         "Created new UI components with React and Storybook and optimized rendering performance of several core components in an internal design system."
@@ -63,7 +63,7 @@
       "company": "/gebrüderheitz",
       "link": "https://www.gebruederheitz.de/",
       "duration": "October, 2017 - May 2020",
-      "position": "Senior software developer",
+      "position": "Senior software engineer",
       "summary": [
         "Developed a whiteboard collaboration tool \"Leanboard\" using React, Redux, and Socket.io for real-time user interaction.",
         "Introduced CI/CD pipelines with GitHub Actions, Docker, and Heroku to accelerate feature delivery and bug fixes.",
@@ -75,7 +75,7 @@
       "company": "Upwork",
       "link": "https://www.upwork.com/",
       "duration": "February, 2013 - December, 2017",
-      "position": "Freelance software developer",
+      "position": "Freelance software engineer",
       "summary": [
         "Developed an order tracking dashboard for a Chinese fashion retailer managing brands like Belle Poque and Paul Jones, streamlining their manual Excel-based process across multiple marketplaces.",
         "Integrated shipping providers including Hongkong Post, 4PX, and China Post to enhance logistics operations."
@@ -85,7 +85,7 @@
       "company": "Ixxy",
       "link": "https://www.ixxy.co.uk/",
       "duration": "August, 2011 - July, 2012",
-      "position": "Middle software developer",
+      "position": "Middle software engineer",
       "summary": [
         "Translated Photoshop designs into fully functional websites using Django for clients including \"The Lily Foundation\" and \"Crown Gardens\", ensuring seamless implementation of visual concepts into live web experiences.",
         "Engineered numerous bug fixes and innovative features for a proprietary Django-based CMS, enhancing overall user satisfaction and system performance."
@@ -95,7 +95,7 @@
       "company": "Mera Networks",
       "link": "http://meranetworks.com/",
       "duration": "February, 2010 - April, 2011",
-      "position": "Junior software developer",
+      "position": "Junior software engineer",
       "summary": [
         "Spearheaded bugfixes, configuration, and improvements for Navitel maps using Python, delivering numerous enhancements to navigation systems.",
         "Developed a web dashboard using Django for remote computer configuration and management (precursor to Ansible), collaborating with the engineering team to deliver an MVP."
