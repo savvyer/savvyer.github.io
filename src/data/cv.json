@@ -35,7 +35,7 @@
         "Developed browser extension \"Lawlink\" using WXT and React frameworks for seamless integration with German law databases.",
         "Implemented secure authentication using Identity API and Keycloak to ensure trusted user access.",
         "Added caching mechanism via browser storage APIs, significantly improving HTML and PDF processing speed.",
-        "Created GitHub Actions setup for code linting, Playwrite testing, and automated release builds, boosting code quality and publishing efficiency."
+        "Created GitHub Actions setup for code linting, Playwright testing, and automated release builds, boosting code quality and store publishing efficiency."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "duration": "December 2020 - December 2023",
       "position": "Senior software engineer",
       "summary": [
-        "Integrated Salesforce & Five9 into \"MaestroQA\" Chrome extension, converting clients and reducing churn.",
-        "Designed and developed REST API framework enabling transition from Meteor methods, reducing server load and abstraction from Meter dependencies to move to another Node.js-based framework.",
+        "Integrated Salesforce & Five9 into \"MaestroQA\" Chrome extension, driving conversion rates and reducing customer churn.",
+        "Designed and developed REST API framework enabling transition from Meteor methods, reducing server load and abstraction from Meteor dependencies to move to another Node.js-based framework.",
         "Identified and addressed critical security vulnerabilities in SSO authentication mechanism, enhancing resilience against cyber threats."
       ]
     },
@@ -65,9 +65,9 @@
       "duration": "October 2017 - May 2020",
       "position": "Senior software engineer",
       "summary": [
-        "Developed a whiteboard collaboration tool \"Leanboard\" using React, Redux, and Socket.io for real-time user interaction.",
+        "Developed a whiteboard tool \"Leanboard\" using React, Redux, and Socket.io for real-time user collaboration.",
         "Introduced CI/CD pipelines with GitHub Actions, Docker, and Heroku to accelerate feature delivery and bug fixes.",
-        "Created a backend API with Firebase Cloud Functions to power the mobile app \"Urban Challenger,\" enhancing functionality and performance.",
+        "Created a backend API with Firebase Cloud Functions to power the mobile app \"Urban Challenger\".",
         "Implemented REST API with NestJS for employee survey and feedback system used at \"Deutsche Telekom\""
       ]
     },
