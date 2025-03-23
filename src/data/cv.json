@@ -5,12 +5,12 @@
   "title": "Full Stack Software Engineer",
   "skills": [
     {
-      "area": "Frontend: ",
-      "stack": "JavaScript, TypeScript, React, Redux, Storybook"
+      "area": "Backend: ",
+      "stack": "TypeScript, JavaScript, Node, Bun, Nest, Express, Hono"
     },
     {
-      "area": "Backend & Full-Stack: ",
-      "stack": "Node, Bun, Nest, Express, Hono, Next"
+      "area": "Frontend: ",
+      "stack": "React, Redux, Next, Storybook"
     },
     {
       "area": "Databases: ",
@@ -22,7 +22,7 @@
     },
     {
       "area": "Testing: ",
-      "stack": "Unit Testing with Jest, E2E Testing with Cypress/Playwright"
+      "stack": "Jest, Cypress, Playwright"
     }
   ],
   "experience": [
